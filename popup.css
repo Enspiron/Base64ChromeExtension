@@ -1,0 +1,10 @@
+body {
+    min-width:310px;
+    min-height:30px;
+    vertical-align: center;
+}
+
+.main{
+    vertical-align: center;
+    width: max-content;
+}
